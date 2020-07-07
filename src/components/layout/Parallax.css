@@ -1,0 +1,29 @@
+h1 {
+  font-family: "Modak", cursive;
+  text-align: center;
+}
+h2 {
+  font-family: "Ultra", serif;
+  /* font-family: "Knewave", cursive; */
+}
+h3 {
+  font-family: "Yellowtail", cursive;
+  text-align: center;
+}
+
+p {
+  font-family: "Inconsolata", monospace;
+  font-size: 30px;
+}
+#btn1 {
+  left: 35%;
+  margin-top: 14%;
+}
+#collapsible {
+  width: 100%;
+}
+#skills_pics {
+  width: 100px;
+  height: 100px;
+  margin: 30px;
+}

@@ -1,0 +1,19 @@
+#cloud {
+  padding-left: 10px;
+}
+#material-icons {
+  flex-direction: row;
+}
+
+a {
+  font-family: "Bungee", cursive;
+}
+#font_download {
+  padding-left: 10px;
+}
+#funtions {
+  padding-right: 10px;
+}
+nav {
+  background-color: #1b1c1e;
+}
