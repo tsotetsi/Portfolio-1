@@ -12,7 +12,7 @@ const Foot = () => {
               https://github.com/AkoliweMtukuse/
             </a>
             <br></br>
-            <a className="grey-text " href="#!">
+            <a className="grey-text " href="mailto:akoliwemtukuse@gmail.com">
               akoliwemtukuse@gmail.com
             </a>
           </div>

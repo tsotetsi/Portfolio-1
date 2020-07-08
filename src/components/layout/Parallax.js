@@ -25,15 +25,15 @@ class ParallaxItem extends Component {
           <div className="row container">
             <h2 className="header">About</h2>
             <p className="grey-text text-darken-3 lighten-3">
-              " I'm an exceptional peer, I always going the extra mile to
-              complete MY work and I give 100 % to everything I do. My passion
-              and effort shows in the work I delivers and I am always willing to
+              " I'm an exceptional peer, I'm always going the extra mile to
+              complete my work and I give 100% to everything I do. My passion
+              and effort shows in the work I deliver and I am always willing to
               help others where I can. I am a hard worker, disciplined and
               punctual too. I am able to see things from different perspectives
               therefore find different solutions for problems. My character
               reflects confidence and humility at the same time, I have a great
-              way with people and I works just as well in a group as I do
-              individually. "
+              way with people and I work just as well in a group as I do
+              individually."
             </p>
           </div>
         </div>
@@ -48,12 +48,12 @@ class ParallaxItem extends Component {
             <p className="grey-text text-darken-3 lighten-3">
               " These are the skills that I have acquired in the past 6
               months... "<br></br>
-              <img id="skills_pics" src={Html} alt="html-p" />
-              <img id="skills_pics" src={Css} alt="css-p" />
-              <img id="skills_pics" src={Java} alt="javascript-p" />
-              <img id="skills_pics" src={ReactPic} alt="react-p" />
-              <img id="skills_pics" src={Python} alt="python-p" />
-              <img id="skills_pics" src={Mysql} alt="mysql-p" />
+              <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img id="skills_pics" src={Html} alt="html-p" /></a>
+              <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img id="skills_pics" src={Css} alt="css-p" /></a>
+              <a href="https://en.wikipedia.org/wiki/Java_(software_platform)"><img id="skills_pics" src={Java} alt="javascript-p" /></a>
+              <a href="https://reactjs.org/"><img id="skills_pics" src={ReactPic} alt="react-p" /></a>
+              <a href="https://www.python.org/"><img id="skills_pics" src={Python} alt="python-p" /></a>
+              <a href="https://www.mysql.com/"><img id="skills_pics" src={Mysql} alt="mysql-p" /></a>
             </p>
           </div>
         </div>
@@ -66,8 +66,8 @@ class ParallaxItem extends Component {
           <div className="row container">
             <h2 className="header">Work</h2>
             <p className="grey-text text-darken-3 lighten-3">
-              "Take a look to at the work I've done during my time at
-              Lifechoices Academy ... "
+              "Take a look at the work I have done during my time at
+              Life Choices Coding Academy... "
               <div>
                 <ul class="collapsible popout">
                   <li>
