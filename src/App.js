@@ -20,7 +20,7 @@ const App = () => {
       <div className="wrapper">
         <NavB />
         <Switch>
-          <Route exact path="/" component={Home} />
+          <Route exact path="/Portfolio-1" component={Home} />
         </Switch>
 
         <Foot />
