@@ -21,7 +21,7 @@ class ParallaxItem extends Component {
             <img src={Pic1} alt="pic1" />
           </div>
         </div>
-        <div className="section white">
+        <div id="about" className="section white">
           <div className="row container">
             <h2 className="header">About</h2>
             <p className="grey-text text-darken-3 lighten-3">
@@ -42,7 +42,7 @@ class ParallaxItem extends Component {
             <img src={Pic2} alt="pic1" />
           </div>
         </div>
-        <div className="section white">
+        <div id="skill" className="section white">
           <div className="row container">
             <h2 className="header">Skills</h2>
             <p className="grey-text text-darken-3 lighten-3">
@@ -62,7 +62,7 @@ class ParallaxItem extends Component {
             <img src={Pic4} alt="pic1" />
           </div>
         </div>
-        <div className="section white">
+        <div id="work" className="section white">
           <div className="row container">
             <h2 className="header">Work</h2>
             <p className="grey-text text-darken-3 lighten-3">
@@ -125,7 +125,7 @@ class ParallaxItem extends Component {
             <img src={Pic5} alt="pic1" />
           </div>
         </div>
-        <div className="section white">
+        <div id="contact" className="section white">
           <div className="row container">
             <h2 className="header">Contact</h2>
             <p className="grey-text text-darken-3 lighten-3">

@@ -21,9 +21,6 @@ const App = () => {
         <NavB />
         <Switch>
           <Route exact path="/" component={Home} />
-          <Route exact path="/work" component={Work} />
-          <Route exact path="/skills" component={Skills} />
-          <Route exact path="/contact" component={Contact} />
         </Switch>
 
         <Foot />

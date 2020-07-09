@@ -19,24 +19,24 @@ const NavB = () => {
           </a>
           <ul className="right hide-on-med-and-down">
             <li>
-              <Link to="/">
+              <a href="#about">
                 <i className="material-icons">home</i>
-              </Link>
+              </a>
             </li>
             <li>
-              <Link to="/work">
+              <a href="#skill">
                 <i className="material-icons">remove_red_eye</i>
-              </Link>
+              </a>
             </li>
             <li>
-              <Link to="/skills">
+              <a href="#work">
                 <i className="material-icons">fingerprint</i>
-              </Link>
+              </a>
             </li>
             <li>
-              <Link to="/contact">
+              <a href="#contact">
                 <i className="material-icons">email</i>
-              </Link>
+              </a>
             </li>
           </ul>
         </div>
